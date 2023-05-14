@@ -1,11 +1,8 @@
 #include <iostream>
 #include <string>
+#include "D:\New folder\C++ projects\c++Notes\c-notes\log_ch1.cpp"
 
 using namespace std;
-
-void Log (const string* message) {
-    cout << *message << endl;
-}
 
 int main() {
     string m = "Hello world";
