@@ -4,6 +4,12 @@
 
 using namespace std;
 
+/*
+    Function declear
+    link will find the definition of function Log
+*/
+// void Log (const string* message);
+
 int main() {
     string m = "Hello world";
     Log(&m);
